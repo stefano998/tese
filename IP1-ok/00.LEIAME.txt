@@ -1,6 +1,0 @@
-- Rodar os arquivos numerados na ordem
-
-- Arquivos com mesmo número podem ser executados simultaneamente
-
-- Os arquivos sem numeração não precisam ser acionados pelo usuário 
-(são utilizados pelos arquivos numerados automaticamente)
