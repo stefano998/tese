@@ -1,6 +1,6 @@
 # Códigos da Tese de Doutorado
 
-MIT license
+(MIT license)
 
 Códigos da Tese de Doutorado "Identificação de outliers em redes geodésicas: uma abordagem baseada em metaclassificação" apresentada ao Programa de Pós-graduação em Engenharia de Defesa do Instituto Militar de Engenharia. 
 
