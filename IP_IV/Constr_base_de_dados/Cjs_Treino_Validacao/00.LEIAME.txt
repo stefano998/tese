@@ -4,10 +4,7 @@ Instruções:
 
 - Primeiramente, copiar para dentro desta pasta os seguintes 
 arquivos arquivos computados na pasta "Cjs_VC_Ev_Testes":
-
--todos os arquivos "Ev" do EL1 e ELInf
--todos os arquivos "VC" do L1, LInf, IDS e SLRTMO
--todos os arquivos "diag_da_matriz_redund"
+Todos os arquivos cujos nomes iniciam com os termos "Ev", "VC" ou "diag_da_matriz_redund"
 
 - Rodar os arquivos numerados na ordem
 
