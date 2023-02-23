@@ -16,3 +16,4 @@ Descrição dos arquivos:
 - 02.VC_LInf.m: calcula valor crítico via SMC para o ELInf.
 - 02.VC_MMQ.m: calcula valor crítico via SMC para o MMQ.
 - 03.Diferencas_Evs.m: calcula estatísticas das diferenças entre elementos das matrizes Ev computadas.
+- get_network.m: função que retorna as informações necessárias sobre cada rede geodésica analisada.
