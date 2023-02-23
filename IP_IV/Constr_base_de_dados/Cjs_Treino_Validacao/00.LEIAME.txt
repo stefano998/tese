@@ -1,0 +1,56 @@
+Software: Octave
+
+Instruções:
+
+- Primeiramente, copiar para dentro desta pasta os seguintes 
+arquivos arquivos computados na pasta "Cjs_VC_Ev_Testes":
+
+-todos os arquivos "Ev" do EL1 e ELInf
+-todos os arquivos "VC" do L1, LInf, IDS e SLRTMO
+-todos os arquivos "diag_da_matriz_redund"
+
+- Rodar os arquivos numerados na ordem
+
+- Arquivos com mesmo número podem ser executados simultaneamente
+
+- Os arquivos sem numeração não precisam ser acionados pelo usuário 
+(são utilizados pelos arquivos numerados automaticamente)
+
+Descrição dos arquivos:
+
+- 01.save_outs_positions.m: salva matriz com a posição dos outliers para cada cenário simulado.
+
+- 02.v_L1_simplex.m: calcula vetor dos resíduos para cada cenário simulado (combinações com solução do EL1 pelo simplex). 
+
+- 02.v_LInf.m: calcula vetor dos resíduos para cada cenário simulado (combinações com solução pelo ELInf). 
+
+- 03.w_EL1_simplex.m: calcula estatísticas de teste para identificação de outliers (combinações com solução do EL1 pelo simplex).
+
+- 03.w_ELInf.m: calcula estatísticas de teste para identificação de outliers (combinações com solução pelo ELInf).
+
+- 03.w_IDS.m: calcula estatísticas de teste para identificação de outliers com o IDS.
+
+- 03.w_SLRTMO.m: calcula estatísticas de teste para identificação de outliers com o SLRTMO.
+
+- 04.EL1_simplex.m: calcula a acurácia na identificação de outliers (combinações com solução do EL1 pelo simplex).
+
+- 04.ELInf.m: calcula a acurácia na identificação de outliers (combinações com solução pelo ELInf).
+
+- 04.IDS.m: calcula a acurácia na identificação de outliers pelo IDS.
+
+- 04.SLRTMO.m: calcula a acurácia na identificação de outliers pelo SLRTMO.
+
+- get_network.m: função que retorna as informações necessárias sobre cada rede geodésica analisada.
+
+- gera_smc: gera simulações de Monte Carlo (sem outliers).
+
+- gera_smc_0outdif: gera simulações de Monte Carlo (com outliers).
+
+- acc_score.m: função para calcular a acurácia na identificação de outliers na rede geodésica analisada.
+
+- acc_obs.m: função para calcular a acurácia na identificação de outliers por observação.
+
+- functionIDS: função para identificação de outliers pelo IDS.
+
+- functionSLRTMO: função para identificação de outliers pelo SLRTMO.
+
