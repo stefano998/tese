@@ -5,3 +5,14 @@ Instruções:
 - Arquivos com mesmo número podem ser executados simultaneamente
 - Os arquivos sem numeração não precisam ser acionados pelo usuário 
 (são utilizados pelos arquivos numerados automaticamente)
+
+Descrição dos arquivos:
+- 01.Ev_L1_SMC_RIMQ.m: calcula a matriz covariância dos resíduos via SMC para o EL1 com solução pelo RIMQ.
+- 01.Ev_L1_SMC_simplex.m: calcula a matriz covariância dos resíduos via SMC para o EL1 com solução pelo simplex.
+- 01.Ev_LInf_SMC.m: calcula a matriz covariância dos resíduos via SMC para o ELInf.
+- 01.Ev_MMQ_A_&_SMC.m: calcula a matriz covariância dos resíduos analítica e via SMC para o MMQ.
+- 02.VC_L1_RIMQ.m: calcula valor crítico via SMC para o EL1 com solução pelo RIMQ.
+- 02.VC_L1_simplex.m: calcula valor crítico via SMC para o EL1 com solução pelo simplex.
+- 02.VC_LInf.m: calcula valor crítico via SMC para o ELInf.
+- 02.VC_MMQ.m: calcula valor crítico via SMC para o MMQ.
+- 03.Diferencas_Evs.m: calcula estatísticas das diferenças entre elementos das matrizes Ev computadas.
