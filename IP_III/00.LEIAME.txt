@@ -25,10 +25,10 @@ Descrição dos arquivos:
 - 04.IDS.m: calcula a acurácia na identificação de outliers pelo IDS.
 - 04.SLRTMO.m: calcula a acurácia na identificação de outliers pelo SLRTMO.
 - get_network.m: função que retorna as informações necessárias sobre cada rede geodésica analisada.
-- gera_smc: gera simulações de Monte Carlo (sem outliers).
-- gera_smc_0outdif: gera simulações de Monte Carlo (com outliers).
+- gera_smc.m: gera simulações de Monte Carlo (sem outliers).
+- gera_smc_0outdif.m: gera simulações de Monte Carlo (com outliers).
 - acc_score.m: função para calcular a acurácia na identificação de outliers na rede geodésica analisada.
 - acc_obs.m: função para calcular a acurácia na identificação de outliers por observação.
-- functionIDS: função para identificação de outliers pelo IDS.
-- functionSLRTMO: função para identificação de outliers pelo SLRTMO.
+- functionIDS.m: função para identificação de outliers pelo IDS.
+- functionSLRTMO.m: função para identificação de outliers pelo SLRTMO.
 
