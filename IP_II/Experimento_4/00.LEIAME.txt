@@ -15,5 +15,5 @@ Descrição dos arquivos:
 - 04.EL1.m: calcula a acurácia na identificação de outliers (com solução pelo EL1).
 - 04.ELInf.m: calcula a acurácia na identificação de outliers (com solução pelo ELInf).
 - get_network.m: função que retorna as informações necessárias sobre cada rede geodésica analisada.
-- gera_smc: gera simulações de Monte Carlo (sem outliers).
+- gera_smc.m: gera simulações de Monte Carlo (sem outliers).
 - acc_score.m: função para calcular a acurácia na identificação de outliers na rede geodésica analisada.
