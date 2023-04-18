@@ -1,4 +1,5 @@
 Software: Octave
+Linguagem de programação: Python 3 - apenas o arquivo "05.KMEANS.ipynb"
 
 Instruções:
 - Primeiramente, copiar para dentro desta pasta os seguintes 
@@ -21,6 +22,7 @@ Descrição dos arquivos:
 - 04.ELInf.m: calcula a acurácia na identificação de outliers (combinações com solução pelo ELInf).
 - 04.IDS.m: calcula a acurácia na identificação de outliers pelo IDS.
 - 04.SLRTMO.m: calcula a acurácia na identificação de outliers pelo SLRTMO.
+- 05.KMEANS.ipynb: ajuste de hiperparâmetros, calcula a acurácia na identificação de outliers e salva predições - tudo para o KMEDIAS.
 - get_network.m: função que retorna as informações necessárias sobre cada rede geodésica analisada.
 - gera_smc.m: gera simulações de Monte Carlo (sem outliers).
 - gera_smc_0outdif.m: gera simulações de Monte Carlo (com outliers).
