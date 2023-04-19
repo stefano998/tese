@@ -1,5 +1,5 @@
 Software: Octave
-Linguagem de programação: Python 3 - apenas o arquivo "05.KMEANS-teste.ipynb"
+Jupyter notebook - Python 3 - apenas o arquivo "05.KMEANS-teste.ipynb"
 
 Instruções:
 - Rodar os arquivos numerados na ordem
