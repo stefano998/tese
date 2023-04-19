@@ -23,7 +23,7 @@ Descrição dos arquivos:
 - 04.ELInf.m: calcula a acurácia na identificação de outliers (combinações com solução pelo ELInf) e salva predições.
 - 04.IDS.m: calcula a acurácia na identificação de outliers pelo IDS e salva predições.
 - 04.SLRTMO.m: calcula a acurácia na identificação de outliers pelo SLRTMO e salva predições.
-- 05.KMEANS.ipynb: calcula a acurácia na identificação de outliers e salva predições do KMEDIAS.
+- 05.KMEANS-teste.ipynb: calcula a acurácia na identificação de outliers e salva predições do KMEDIAS.
 - get_network.m: função que retorna as informações necessárias sobre cada rede geodésica analisada.
 - gera_smc.m: gera simulações de Monte Carlo (sem outliers).
 - gera_smc_0outdif.m: gera simulações de Monte Carlo (com outliers).
