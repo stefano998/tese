@@ -1,5 +1,5 @@
 Software: Octave
-Linguagem de programação: Python 3 - apenas o arquivo "05.KMEANS.ipynb"
+Jupyter notebook - Python 3 - apenas o arquivo "05.KMEANS.ipynb"
 
 Instruções:
 - Primeiramente, copiar para dentro desta pasta os seguintes 
