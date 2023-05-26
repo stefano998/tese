@@ -3,7 +3,7 @@ Jupyter notebook - Python 3 - apenas o arquivo "05.KMEANS.ipynb"
 
 Instruções:
 - Primeiramente, copiar para dentro desta pasta os seguintes 
-arquivos arquivos computados na pasta "Cjs_VC_Ev_Testes":
+arquivos computados na pasta "Cjs_VC_Ev_Testes":
 Todos os arquivos cujos nomes iniciam com os termos "Ev", "VC" ou "diag_da_matriz_redund"
 - Rodar os arquivos numerados na ordem
 - Arquivos com mesmo número podem ser executados simultaneamente
