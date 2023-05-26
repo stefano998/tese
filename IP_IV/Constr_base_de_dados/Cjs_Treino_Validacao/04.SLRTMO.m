@@ -11,7 +11,7 @@ pesos_aux = {'pp'};            ###MMQ SOMENTE PP!!!
 alias_aux = {'kleincorr'}; ###### preencher ######
 for alias_num = 1:length(alias_aux)        
   for pesos_num = 1:length(pesos_aux)
-   for min_err = [6]                    ###preencher
+   for min_err = [3, 6]                    ###preencher
    
     mfilename ()
     pesos = pesos_aux{pesos_num}
