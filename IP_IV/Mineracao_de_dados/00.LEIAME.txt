@@ -1,0 +1,9 @@
+Jupyter notebooks.
+Linguagem de programação: Python 3
+
+Descrição dos arquivos:
+- MLP-Rede-hiperparam.ipynb: ajuste de hiperparâmetros para RNAs do tipo MLP com base de dados no nível de granularidade das redes geodésicas.
+- MLP-Obs-hiperparam.ipynb: ajuste de hiperparâmetros para RNAs do tipo MLP com base de dados no nível de granularidade das observações geodésicas;
+- MPNN.ipynb: metaclassificação com MPNNs. (para ajuste de hiperparâmetros, modificá-los manualmente no arquivo)
+- MLP-Rede-Tese.ipynb: aplicação do metaclassificador MLP-Rede(2/3,1/3) nos diversos testes.
+- MLP-Rede-Explica.ipynb: experimento da seção "Explicabilidade Aplicada".
