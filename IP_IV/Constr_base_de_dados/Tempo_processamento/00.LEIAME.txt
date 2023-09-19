@@ -1,0 +1,20 @@
+Software: Octave
+
+Instruções:
+- Rodar os arquivos numerados na ordem
+- Arquivos com mesmo número podem ser executados simultaneamente
+- Os arquivos sem numeração não precisam ser acionados pelo usuário 
+(são utilizados pelos arquivos numerados automaticamente)
+
+Descrição dos arquivos:
+- 01.EL1_simplex.m: calcula e salva estatísticas de teste e predições na identificação de outliers pelo EL1S-wi-simplex e mensura o tempo de processamento.
+- 01.ELInfP.m: calcula e salva estatísticas de teste e predições na identificação de outliers pelo ELInfP-oi e mensura o tempo de processamento.
+- 01.ELInfP.m: calcula e salva estatísticas de teste e predições na identificação de outliers pelo ELInfS-oi e mensura o tempo de processamento.
+- 01.IDS.m: calcula e salva estatísticas de teste e predições na identificação de outliers pelo IDS e mensura o tempo de processamento.
+- 01.SLRTMO.m: calcula e salva estatísticas de teste e predições na identificação de outliers pelo SLRTMO e mensura o tempo de processamento.
+- get_network.m: função que retorna as informações necessárias sobre cada rede geodésica analisada.
+- gera_smc.m: gera simulações de Monte Carlo da rede geodésica analisada.
+- acc_score.m: função para calcular a acurácia na identificação de outliers na rede geodésica analisada.
+- functionIDS.m: função para identificação de outliers pelo IDS.
+- functionSLRTMO.m: função para identificação de outliers pelo SLRTMO.
+
