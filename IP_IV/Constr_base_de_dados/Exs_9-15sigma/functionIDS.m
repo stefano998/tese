@@ -15,13 +15,14 @@ do
     [valor, posicao]=max(ww);
     m=m-1;
     y_pred_i(1,e(posicao,2)) = 1;
+    e_over = e(posicao,2);
     A(posicao,:)=[];e(posicao,:)=[];
     P(posicao,:)=[];P(:,posicao)=[];invP(posicao,:)=[];invP(:,posicao)=[];
     ww1=ww; ww1(posicao,:)=[];
     
-    if (valor-max(ww1))<0.0000000000000000001
-      #y_pred_i(1,1) = 99;, break endif
-      y_pred_i(1,e(posicao,2)) = 0; break endif
+    #if (valor-max(ww1))<0.0000000000000000001
+      #y_pred_i(1,e_over) = 0; 
+      #break endif
   endif
   
 until max(ww)<=WIDS 
